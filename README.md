@@ -1,2 +1,3 @@
 # helloworld
-my first program
+# my first program
+print("hello world")
